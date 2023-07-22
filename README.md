@@ -12,7 +12,7 @@ Clone this repo to provide the starter code for a comprehensive MERN-Stack proje
 DATABASE_URL=YOUR_DATABASE_GOESHERE
 SECRET=YOUR_SECRET_HERE
 ```
-
+- rename the name of this project on "name" field in `package.json`
 - [ ] React server running on localhost:3000 after running `npm start`
 - [ ] Node.js backend running on localhost:3001 after running `nodemon server.js`
 - [ ] Set up this project's Github page
